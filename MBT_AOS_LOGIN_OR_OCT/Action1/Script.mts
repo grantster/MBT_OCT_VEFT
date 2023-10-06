@@ -1,4 +1,5 @@
 ﻿'launch browser
+'add a comment
 'systemUtil.Run ("C:\Program Files\Mozilla Firefox\firefox.exe")
 systemUtil.Run ("C:\Program Files\Google\Chrome\Application\chrome.exe")
 'navigator to AOS
